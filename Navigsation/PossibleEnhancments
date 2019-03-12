@@ -1,0 +1,7 @@
+In ~/paparazzi/sw/airborne/modules/orange_avoider
+  We can adjust the way the drone reacts to an object
+  Instead of stopping and taking a random side
+  We can try to implement a code which always knows the distance to the sides of the CyberZoo
+  If this distance is too small the drone will automatically pick the other side.
+  Also instead of a full stop maybe a speed change can be implemented.
+  
