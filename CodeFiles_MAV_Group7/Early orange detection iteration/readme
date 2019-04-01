@@ -1,4 +1,4 @@
-Simply run the python file to see how it processes the images in imagefolder.
+Simply run the python files to see how they process the images in imagefolder.
 
 orange_pole_detection detects the orange poles and presents a list of actions to choose from.
 
