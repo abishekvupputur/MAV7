@@ -1,1 +1,5 @@
 Simply run the python file to see how it processes the images in imagefolder.
+
+orange_pole_detection detects the orange poles and presents a list of actions to choose from.
+
+screen_segmentation.py shows how the screen is segmented into 5 columns, where only the bottom half is explored for green pixels.
